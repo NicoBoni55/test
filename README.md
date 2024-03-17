@@ -17,4 +17,8 @@ The printf function (which derives its name from **print formatted**) prints a m
 | %i   |   | Prints an integer |
 
 ## Use
+code will be compiled this way: 
+```bash
+$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 -Wno-format *.c
+```
 
