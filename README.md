@@ -1,11 +1,6 @@
-<header align= "center">
-
 # holbertonschool-printf
-</header>
 
-<p align="center">
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*iY6NOzOWL-URmTy2AkGinA.png" alt="Printf">
-</p>
+![Printf](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3uBS7K5yoLOvIRRnNO2_gWqXcV5mo-0TX41qWuU9zA283kGy60ESlibYK4wTX3dFw8MI&usqp=CAU)
 
 ## What is printf?
 
@@ -22,3 +17,4 @@ The printf function (which derives its name from **print formatted**) prints a m
 | %i   |   | Prints an integer |
 
 ## Use
+
