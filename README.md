@@ -1,6 +1,6 @@
 # holbertonschool-printf
 
-![Printf](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3uBS7K5yoLOvIRRnNO2_gWqXcV5mo-0TX41qWuU9zA283kGy60ESlibYK4wTX3dFw8MI&usqp=CAU)
+![Printf](https://miro.medium.com/v2/resize:fit:748/1*AfH44efHUkGp-amwdiD9zg.png)
 
 ## What is printf?
 
